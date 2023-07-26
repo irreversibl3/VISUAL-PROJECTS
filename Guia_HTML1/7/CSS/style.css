@@ -1,0 +1,23 @@
+body{
+    background-color:rgba(0, 0, 0, 0.925);
+
+}
+.h1h2{
+    font-family: Cambria;
+    color: aliceblue;
+    text-align: center;
+}
+
+#p1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+    text-align: left;
+}
+
+#p2{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+    text-align: left;
+}
